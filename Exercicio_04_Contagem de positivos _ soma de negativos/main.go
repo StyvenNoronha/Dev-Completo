@@ -20,7 +20,7 @@ func main(){
 		if num <= 0 {
 			sumNegativo = num + sumNegativo
 		} else{
-			positivo = num
+			positivo += 1
 		}
 
 	}
